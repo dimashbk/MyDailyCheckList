@@ -5,9 +5,9 @@
   Obviously it is the simple ToDo manager. May be further I will add some new options and etc.
   So there is no UI/UX design only the business-logic.
   
-![Simulator Screen Shot - iPhone 13 Pro - 2022-12-09 at 22 04 50](https://user-images.githubusercontent.com/114899476/206747751-0f824336-b9b8-46a4-9a04-a54707a25d44.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-12-09 at 22 06 16](https://user-images.githubusercontent.com/114899476/206747762-ca81af40-766c-4be4-b469-0025111e05b8.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-12-09 at 22 06 24](https://user-images.githubusercontent.com/114899476/206747772-c40f7902-59f1-4728-bb73-388f203acbbf.png)
+
+
+
 
 
 ## Description
@@ -22,5 +22,10 @@
   Swipe to the left will delete the task
   Swipe to the right will edit completed to uncompleted
   Also you have Edit button where you will be able to move/delete the tasks
+  ![Simulator Screen Shot - iPhone 13 Pro - 2022-12-09 at 22 04 50](https://user-images.githubusercontent.com/114899476/206747751-0f824336-b9b8-46a4-9a04-a54707a25d44.png)
+  ![Simulator Screen Shot - iPhone 13 Pro - 2022-12-09 at 22 06 16](https://user-images.githubusercontent.com/114899476/206747762-ca81af40-766c-4be4-b469-0025111e05b8.png)
+  ![Simulator Screen Shot - iPhone 13 Pro - 2022-12-09 at 22 06 24](https://user-images.githubusercontent.com/114899476/206747772-c40f7902-59f1-4728-bb73-388f203acbbf.png)
+  
+
   
   Thank u for ur attention :)
